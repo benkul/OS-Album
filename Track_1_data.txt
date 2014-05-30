@@ -1,0 +1,29 @@
+Open_Source_1
+
+Key: G-Major
+Tempo: 120 BPM
+ 
+
+Virtual Instruments used:
+Channel 1: Chimera by Majken Hoglund
+
+
+Channel 2: Mr. Alias Pro + Arcdev Dubb Box fx
+
+
+Channel 3: DSK Odisea
+
+
+Channel 4: DSK Ethereal PadZ
+
+--Long Edit--
+used: 
+
+channel 1 - 4 wav files
+
+edited:
+panning & volume edits, shifted starts so noises build and fade in/out
+
+added:
+Channel 5: Reaper built in Sine
+fades in and pans across spectrum

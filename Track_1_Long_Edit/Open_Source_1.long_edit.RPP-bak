@@ -1,0 +1,457 @@
+<REAPER_PROJECT 0.1 "4.611" 1401470971
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 0 -1
+  PANMODE 3
+  CURSOR 226
+  ZOOM 4.61122669093423 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 23.976024 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 0 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 1426 290 655 403
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 ""
+      OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA776t3g3wrd7vOzU/7zs1P1mFTT/D8Qw+AACAP+yElzx5Avg+
+      c2sZOgAAEAAAAA==
+    >
+    FLOATPOS 0 0 0 0
+    FXID {1D808FF4-CF5E-4A45-BF00-1B26D7EB349D}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {91BC2D72-4E56-4726-A652-40A64B70F850}
+    NAME Open_Source_1.channel_1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {91BC2D72-4E56-4726-A652-40A64B70F850}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 216 1 0
+      PT 236 0 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88472837-56FA-4546-9DA4-D8F4BF6A0730}
+      IID 1
+      NAME Open_Source_1.channel_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4861A8C2-AD1F-44F5-B07A-9800E76A6CCB}
+      <SOURCE WAVE
+        FILE "Open_Source_1.channel_1.wav"
+      >
+    >
+  >
+  <TRACK {59192C21-25D7-4589-8FD2-FB03AAA43E6A}
+    NAME Open_Source_1.channel_2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {59192C21-25D7-4589-8FD2-FB03AAA43E6A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 20.9995 0.00002381 0
+      PT 43 0 0
+      PT 66 1 0
+      PT 73 1 0
+      PT 165.0005 1 0
+      PT 200 1 0
+      PT 230 0 0
+    >
+    <PANENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 76 0 0
+      PT 110 0.73770492 0
+      PT 134 0 0
+      PT 176 -0.86885246 0 0 1
+      PT 214 0 0
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5BBAF8D-F9DA-4F03-BD51-A57318A12AF8}
+      IID 2
+      NAME Open_Source_1.channel_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D7DA0D5-8A57-4E30-AC6B-656B552A23BB}
+      <SOURCE WAVE
+        FILE "Open_Source_1.channel_2.wav"
+      >
+    >
+  >
+  <TRACK {D75272D6-F1E6-4B8F-9615-A7606E4A5CBC}
+    NAME Open_Source_1.channel_3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D75272D6-F1E6-4B8F-9615-A7606E4A5CBC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 21 0 0
+      PT 44 1 0
+      PT 188 1 0
+      PT 226 0 0 0 1
+    >
+    <PANENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 20 -1 0 0 1
+      PT 56 0 0
+      PT 166 0 0
+      PT 226 1 0
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 205
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {35E68D58-C28C-49DB-83E9-B67C7184888F}
+      IID 3
+      NAME Open_Source_1.channel_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D24BFE50-38BD-4E01-8A86-24FCD66623BA}
+      <SOURCE WAVE
+        FILE "Open_Source_1.channel_3.wav"
+      >
+    >
+  >
+  <TRACK {10EF2281-D994-4294-8629-21B35A1AE1F3}
+    NAME ReaSynth
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 1 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {10EF2281-D994-4294-8629-21B35A1AE1F3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 78 0 0
+      PT 112 1 0
+      PT 180 0 0
+    >
+    <PANENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 78 1 0
+      PT 160 -1 0 0 1
+    >
+    <FXCHAIN
+      WNDRECT 2190 499 655 462
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEADvvq3eDfCt3qabxDsXt9E6AAAAAAAAAAAAAAAAzk0AP+lniD0AAAAAAAAAPwAAgD8AAIA/
+        AAAAPwAAEAAAAA==
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4316A841-DBE5-415C-AD30-D26E9FECA45A}
+      WAK 0
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {34CDB0DF-A9CD-4594-8AF4-72294879CB4D}
+      IID 5
+      NAME "04-ReaSynth-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {668632EB-E0DC-4A10-AD14-E373F25E6D5F}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {FCABFD67-F9C7-47BA-9D86-9B37EFD8B18F}
+        e 0 90 24 60
+        e 11520 80 24 00
+        E 0 b0 7b 00
+        GUID {1472E31D-9C27-4A45-99A0-A105922BE0F9}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3885
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.047365 60 12 0 0 0 0 0
+        KEYSNAP 1 7 102034050607 0 Major
+        TRACKSEL 0 0 0 ""
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 1451 75 2304 464 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {A622E7CC-4679-405B-8420-6C8B3B514DB1}
+    NAME Open_Source_1.channel_4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A622E7CC-4679-405B-8420-6C8B3B514DB1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 184 1 0
+      PT 226 0 0 0 1
+    >
+    <PANENV2
+      ACT 1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 226 -1 0 0 1
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 226
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8B89AD40-8530-4456-B0DA-610532BAC50D}
+      IID 4
+      NAME Open_Source_1.channel_4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F424A5AB-EB26-400E-B236-AB4E98FB0A66}
+      <SOURCE WAVE
+        FILE "Open_Source_1.channel_4.wav"
+      >
+    >
+  >
+>
